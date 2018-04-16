@@ -60,7 +60,7 @@ for match in matches{
 }
 
 for match in matches {
-    let rangeTwoNS = match.range(at: 2)
+  //  let rangeTwoNS = match.range(at: 2)
 //    let distRangeTwoNS = rangeTwoNS.location + rangeTwoNS.length
  //   let rangeTwo = rangeTwoNS.location...distRangeTwoNS
 //    let stringToFormat = text[0..<2]
@@ -86,3 +86,12 @@ for match in matches {
 
 
 }
+
+
+
+
+
+
+
+
+//          git push git@dengV:dengV/regex_001.git
